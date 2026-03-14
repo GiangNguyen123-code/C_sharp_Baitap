@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NguyenDoHuuGiang_BT8/1.0.0": {
+        "runtime": {
+          "NguyenDoHuuGiang_BT8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenDoHuuGiang_BT8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

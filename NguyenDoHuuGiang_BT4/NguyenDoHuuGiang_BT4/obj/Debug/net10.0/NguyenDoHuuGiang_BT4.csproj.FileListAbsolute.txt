@@ -1,0 +1,15 @@
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\bin\Debug\net10.0\NguyenDoHuuGiang_BT4.exe
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\bin\Debug\net10.0\NguyenDoHuuGiang_BT4.deps.json
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\bin\Debug\net10.0\NguyenDoHuuGiang_BT4.runtimeconfig.json
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\bin\Debug\net10.0\NguyenDoHuuGiang_BT4.dll
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\bin\Debug\net10.0\NguyenDoHuuGiang_BT4.pdb
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.AssemblyInfoInputs.cache
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.AssemblyInfo.cs
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.csproj.CoreCompileInputs.cache
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.sourcelink.json
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.dll
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\refint\NguyenDoHuuGiang_BT4.dll
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.pdb
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\NguyenDoHuuGiang_BT4.genruntimeconfig.cache
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT4\NguyenDoHuuGiang_BT4\obj\Debug\net10.0\ref\NguyenDoHuuGiang_BT4.dll

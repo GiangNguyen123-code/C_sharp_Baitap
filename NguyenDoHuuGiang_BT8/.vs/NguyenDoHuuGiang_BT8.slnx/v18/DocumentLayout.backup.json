@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\HuuGiang\\NguyenDoHuuGiang_BT8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348DC646-56BA-4A00-3720-5667028B8BA2}|NguyenDoHuuGiang_BT8\\NguyenDoHuuGiang_BT8.csproj|d:\\c#\\huugiang\\nguyendohuugiang_bt8\\nguyendohuugiang_bt8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348DC646-56BA-4A00-3720-5667028B8BA2}|NguyenDoHuuGiang_BT8\\NguyenDoHuuGiang_BT8.csproj|solutionrelative:nguyendohuugiang_bt8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\HuuGiang\\NguyenDoHuuGiang_BT8\\NguyenDoHuuGiang_BT8\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenDoHuuGiang_BT8\\Program.cs",
+              "ToolTip": "D:\\C#\\HuuGiang\\NguyenDoHuuGiang_BT8\\NguyenDoHuuGiang_BT8\\Program.cs",
+              "RelativeToolTip": "NguyenDoHuuGiang_BT8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:30:16.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

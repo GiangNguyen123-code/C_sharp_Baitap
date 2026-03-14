@@ -1,0 +1,15 @@
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\bin\Debug\net10.0\NguyenDoHuuGiang_BT6.exe
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\bin\Debug\net10.0\NguyenDoHuuGiang_BT6.deps.json
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\bin\Debug\net10.0\NguyenDoHuuGiang_BT6.runtimeconfig.json
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\bin\Debug\net10.0\NguyenDoHuuGiang_BT6.dll
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\bin\Debug\net10.0\NguyenDoHuuGiang_BT6.pdb
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.AssemblyInfoInputs.cache
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.AssemblyInfo.cs
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.csproj.CoreCompileInputs.cache
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.sourcelink.json
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.dll
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\refint\NguyenDoHuuGiang_BT6.dll
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.pdb
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\NguyenDoHuuGiang_BT6.genruntimeconfig.cache
+D:\C#\HuuGiang\NguyenDoHuuGiang_BT6\NguyenDoHuuGiang_BT6\obj\Debug\net10.0\ref\NguyenDoHuuGiang_BT6.dll

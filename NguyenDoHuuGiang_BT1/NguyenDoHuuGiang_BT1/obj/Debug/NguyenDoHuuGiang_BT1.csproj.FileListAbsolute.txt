@@ -1,0 +1,7 @@
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\bin\Debug\NguyenDoHuuGiang_BT1.exe.config
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\bin\Debug\NguyenDoHuuGiang_BT1.exe
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\bin\Debug\NguyenDoHuuGiang_BT1.pdb
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\obj\Debug\NguyenDoHuuGiang_BT1.csproj.AssemblyReference.cache
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\obj\Debug\NguyenDoHuuGiang_BT1.csproj.CoreCompileInputs.cache
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\obj\Debug\NguyenDoHuuGiang_BT1.exe
+D:\C#\NguyenDoHuuGiang_BT1\NguyenDoHuuGiang_BT1\obj\Debug\NguyenDoHuuGiang_BT1.pdb

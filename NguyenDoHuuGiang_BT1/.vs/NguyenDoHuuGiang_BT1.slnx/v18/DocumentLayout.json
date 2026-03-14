@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\NguyenDoHuuGiang_BT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFCF625-DC24-4C43-9652-D5F794E4E03E}|NguyenDoHuuGiang_BT1\\NguyenDoHuuGiang_BT1.csproj|d:\\c#\\nguyendohuugiang_bt1\\nguyendohuugiang_bt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFCF625-DC24-4C43-9652-D5F794E4E03E}|NguyenDoHuuGiang_BT1\\NguyenDoHuuGiang_BT1.csproj|solutionrelative:nguyendohuugiang_bt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\NguyenDoHuuGiang_BT1\\NguyenDoHuuGiang_BT1\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenDoHuuGiang_BT1\\Program.cs",
+              "ToolTip": "D:\\C#\\NguyenDoHuuGiang_BT1\\NguyenDoHuuGiang_BT1\\Program.cs",
+              "RelativeToolTip": "NguyenDoHuuGiang_BT1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T00:33:57.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
