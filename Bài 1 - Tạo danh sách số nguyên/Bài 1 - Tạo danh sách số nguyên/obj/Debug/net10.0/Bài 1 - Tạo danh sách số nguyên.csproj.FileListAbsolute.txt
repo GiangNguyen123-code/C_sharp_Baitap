@@ -1,0 +1,14 @@
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\bin\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.exe
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\bin\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.deps.json
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\bin\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.runtimeconfig.json
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\bin\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.dll
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\bin\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.pdb
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.AssemblyInfoInputs.cache
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.AssemblyInfo.cs
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.csproj.CoreCompileInputs.cache
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.dll
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\refint\Bài 1 - Tạo danh sách số nguyên.dll
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.pdb
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\Bài 1 - Tạo danh sách số nguyên.genruntimeconfig.cache
+D:\C#\LyThuyet\Bài 1 - Tạo danh sách số nguyên\Bài 1 - Tạo danh sách số nguyên\obj\Debug\net10.0\ref\Bài 1 - Tạo danh sách số nguyên.dll
