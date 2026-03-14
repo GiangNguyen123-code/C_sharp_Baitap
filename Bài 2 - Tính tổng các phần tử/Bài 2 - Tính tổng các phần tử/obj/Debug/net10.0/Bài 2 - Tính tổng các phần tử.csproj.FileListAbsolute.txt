@@ -1,0 +1,14 @@
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\bin\Debug\net10.0\Bài 2 - Tính tổng các phần tử.exe
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\bin\Debug\net10.0\Bài 2 - Tính tổng các phần tử.deps.json
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\bin\Debug\net10.0\Bài 2 - Tính tổng các phần tử.runtimeconfig.json
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\bin\Debug\net10.0\Bài 2 - Tính tổng các phần tử.dll
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\bin\Debug\net10.0\Bài 2 - Tính tổng các phần tử.pdb
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.AssemblyInfoInputs.cache
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.AssemblyInfo.cs
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.csproj.CoreCompileInputs.cache
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.dll
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\refint\Bài 2 - Tính tổng các phần tử.dll
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.pdb
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\Bài 2 - Tính tổng các phần tử.genruntimeconfig.cache
+D:\C#\LyThuyet\Bài 2 - Tính tổng các phần tử\Bài 2 - Tính tổng các phần tử\obj\Debug\net10.0\ref\Bài 2 - Tính tổng các phần tử.dll
