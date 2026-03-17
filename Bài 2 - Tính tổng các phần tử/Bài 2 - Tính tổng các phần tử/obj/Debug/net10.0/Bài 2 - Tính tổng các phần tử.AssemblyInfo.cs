@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bài 2 - Tính tổng các phần tử")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52fa075dc586a34876f1d1500997498f60d9ac72")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bài 2 - Tính tổng các phần tử")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bài 2 - Tính tổng các phần tử")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
